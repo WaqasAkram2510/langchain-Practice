@@ -20,7 +20,7 @@ prompt = ChatPromptTemplate.from_messages([
 
 ## Streamlit structure
 
-st.title("Chatbot using Langchain and LLiama2")
+st.title("Chatbot using Langchain and LLama2")
 input_text = st.text_input("Please enter your topic to search here")
 
 ## OpenAi LLM
